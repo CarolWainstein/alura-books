@@ -1,0 +1,54 @@
+.container_texto {
+    display: none;
+}
+
+@media screen and (min-width: 1400px) {
+
+    .container_link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--cor-fonte-cabecalho);
+    }
+
+    .container_texto {
+        display: block;
+    }
+
+    .opcoes {
+        margin-right: auto;
+    }
+
+   .banner .banner_pesquisa {
+        width: 35%;
+    }
+
+    .carrossel_card {
+        display: flex;
+        margin: 0 5vw 3em 5vw;
+        align-items: center !important;
+    }
+
+    .swiper-pagination {
+        margin: 1em 0 !important;
+    }
+    
+    .swiper {
+        width: 50%;
+    }
+
+    .card {
+       width: 40%;
+       margin-top: 5em !important;
+    }
+
+    .card_inf_descricao {
+        font-size: 30px !important;
+    }
+
+    .lista_rodape {
+        border-left: 1px solid var(--cor-fonte-titulo-rodape);
+        padding: 1em;
+    }
+
+}
