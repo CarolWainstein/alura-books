@@ -1,2 +1,40 @@
-# alura-books
-A technology bookstore website.
+# Alura Books - Portuguese Technology Bookstore
+
+Welcome to the Alura Books GitHub repository! This project represents the source code for the Alura Books website, a platform dedicated to the sale of technology books in Portuguese. Below, you'll find essential information about the project, its key features, and the technologies used.
+
+## Table of Contents
+
+- [Introduction](#alura-books---portuguese-technology-bookstore)
+- [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
+- [Implementation Highlights](#implementation-highlights)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Technologies Used
+
+- **HTML5 and CSS3:** Semantic structuring and styling of content.
+- **JavaScript:** Integration of the book carousel using the Swiper library.
+- **Google Fonts:** Incorporation of the Poppins and Josefin Sans fonts for a modern aesthetic.
+- **Responsiveness:** Implementation of responsive design to ensure a consistent experience across different devices.
+
+## Key Features
+
+1. **Intuitive Navigation:** Clear navigation bar with options for categories, favorites, and user profile.
+2. **Book Carousel:** Visually appealing display of the latest releases and best-selling books.
+3. **Dynamic Search:** Interactive search field to facilitate the search for specific books.
+4. **Specialized Sections:** Highlight for the author of the month, recently visited topics, and news.
+5. **Informative Footer:** Links to other Alura Group platforms, providing direct connections to additional educational resources.
+
+## Implementation Highlights
+
+- **Swiper.js:** Use of the Swiper library to create interactive and responsive carousels.
+- **Modern Design:** Use of modern fonts, stylized icons, and an attractive color palette.
+- **Semantic Structure:** HTML5 was used to provide a semantic structure, improving accessibility and search engine indexing.
+
+## Usage
+
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/your-username/alura-books.git
