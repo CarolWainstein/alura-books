@@ -32,9 +32,3 @@ Welcome to the Alura Books GitHub repository! This project represents the source
 - **Swiper.js:** Use of the Swiper library to create interactive and responsive carousels.
 - **Modern Design:** Use of modern fonts, stylized icons, and an attractive color palette.
 - **Semantic Structure:** HTML5 was used to provide a semantic structure, improving accessibility and search engine indexing.
-
-## Usage
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/alura-books.git
