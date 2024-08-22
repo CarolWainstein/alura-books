@@ -2,16 +2,6 @@
 
 Welcome to the Alura Books GitHub repository! This project represents the source code for the Alura Books website, a platform dedicated to the sale of technology books in Portuguese. Below, you'll find essential information about the project, its key features, and the technologies used.
 
-## Table of Contents
-
-- [Introduction](#alura-books---portuguese-technology-bookstore)
-- [Technologies Used](#technologies-used)
-- [Key Features](#key-features)
-- [Implementation Highlights](#implementation-highlights)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Technologies Used
 
 - **HTML5 and CSS3:** Semantic structuring and styling of content.
